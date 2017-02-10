@@ -1,0 +1,363 @@
+[0209/204048:ERROR:icu_util.cc(173)] Invalid file descriptor to ICU data received.
+[0209/204156:ERROR:icu_util.cc(173)] Invalid file descriptor to ICU data received.
+[0209/204255:ERROR:icu_util.cc(173)] Invalid file descriptor to ICU data received.
+[0209/204341:ERROR:icu_util.cc(173)] Invalid file descriptor to ICU data received.
+[0209/204712:FATAL:v8_initializer.cc(167)] Failed to open V8 file 'D:\NSG\Release\natives_blob.bin' (reason: -4)
+[0209/204729:FATAL:v8_initializer.cc(167)] Failed to open V8 file 'D:\NSG\Release\natives_blob.bin' (reason: -4)
+[0209/205042:FATAL:v8_initializer.cc(167)] Failed to open V8 file 'D:\NSG\Release\natives_blob.bin' (reason: -4)
+[0209/205122:ERROR:gpu_child_thread.cc(328)] Exiting GPU process due to errors during initialization
+[0209/205122:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[0209/205148:ERROR:main_delegate.cc(713)] Could not load cef.pak
+[0209/205148:ERROR:main_delegate.cc(730)] Could not load cef_100_percent.pak
+[0209/205148:ERROR:main_delegate.cc(739)] Could not load cef_200_percent.pak
+[0209/205148:ERROR:main_delegate.cc(748)] Could not load cef_extensions.pak
+[0209/205148:ERROR:content_client.cc(284)] No data resource available for id 23668
+[0209/205148:ERROR:content_client.cc(284)] No data resource available for id 23669
+[0209/205148:ERROR:content_client.cc(284)] No data resource available for id 23670
+[0209/205148:ERROR:content_client.cc(284)] No data resource available for id 23671
+[0209/205148:ERROR:content_client.cc(284)] No data resource available for id 23672
+[0209/205148:ERROR:content_client.cc(284)] No data resource available for id 23667
+[0209/205148:ERROR:content_client.cc(284)] No data resource available for id 23673
+[0209/205210:WARNING:resource_bundle.cc(328)] locale_file_path.empty() for locale 
+[0209/205210:ERROR:main_delegate.cc(706)] Could not load locale pak for en-US
+[0209/205210:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0209/205210:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0209/205210:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0209/205210:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0209/205210:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0209/205210:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0209/205210:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0209/205210:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0209/205210:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0209/205210:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0209/205210:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0209/205210:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0209/205210:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0209/205210:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0209/205210:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0209/205210:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0209/205210:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0209/205210:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0209/205210:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0209/205210:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0209/205210:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0209/205210:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0209/205210:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0209/205210:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0209/205210:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0209/205210:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0209/205210:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0209/205210:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0209/205210:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0209/205210:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0209/205210:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0209/205210:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0209/205210:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0209/205210:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0209/205210:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0209/205210:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0209/205210:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0209/205210:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0209/205210:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0209/205210:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0209/205210:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0209/205210:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0209/205210:WARNING:resource_bundle.cc(328)] locale_file_path.empty() for locale 
+[0209/205210:ERROR:main_delegate.cc(706)] Could not load locale pak for en-US
+[0209/205210:ERROR:gpu_child_thread.cc(328)] Exiting GPU process due to errors during initialization
+[0209/205210:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0209/205210:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0209/205210:WARNING:resource_bundle.cc(328)] locale_file_path.empty() for locale 
+[0209/205210:ERROR:main_delegate.cc(706)] Could not load locale pak for en-US
+[0210/121022:WARNING:resource_bundle.cc(328)] locale_file_path.empty() for locale 
+[0210/121022:ERROR:main_delegate.cc(706)] Could not load locale pak for en-US
+[0210/121022:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121022:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121022:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121022:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121022:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121022:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121022:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121022:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121022:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121022:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121022:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121022:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121022:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121022:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121022:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121022:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121022:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121022:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121022:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121022:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121022:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121022:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121022:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121022:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121022:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121022:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121022:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121022:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121022:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121022:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121022:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121022:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121022:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121022:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121022:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121022:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121022:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121022:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121022:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121022:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121022:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121022:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121022:WARNING:resource_bundle.cc(328)] locale_file_path.empty() for locale 
+[0210/121022:ERROR:main_delegate.cc(706)] Could not load locale pak for en-US
+[0210/121022:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121022:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121022:WARNING:resource_bundle.cc(328)] locale_file_path.empty() for locale 
+[0210/121022:ERROR:main_delegate.cc(706)] Could not load locale pak for en-US
+[0210/121022:ERROR:gpu_child_thread.cc(328)] Exiting GPU process due to errors during initialization
+[0210/121022:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[0210/121127:WARNING:resource_bundle.cc(328)] locale_file_path.empty() for locale 
+[0210/121127:ERROR:main_delegate.cc(706)] Could not load locale pak for en-US
+[0210/121127:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121127:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121127:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121127:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121127:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121127:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121127:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121127:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121127:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121127:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121127:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121127:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121127:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121127:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121127:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121127:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121127:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121127:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121127:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121127:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121127:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121127:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121127:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121127:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121127:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121127:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121127:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121127:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121127:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121127:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121127:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121127:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121127:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121127:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121127:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121127:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121127:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121127:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121127:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121127:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121127:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121127:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121127:WARNING:resource_bundle.cc(328)] locale_file_path.empty() for locale 
+[0210/121127:ERROR:main_delegate.cc(706)] Could not load locale pak for en-US
+[0210/121127:ERROR:gpu_child_thread.cc(328)] Exiting GPU process due to errors during initialization
+[0210/121141:WARNING:resource_bundle.cc(328)] locale_file_path.empty() for locale 
+[0210/121141:ERROR:main_delegate.cc(706)] Could not load locale pak for en-US
+[0210/121141:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121141:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121141:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121141:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121141:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121141:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121141:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121141:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121141:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121141:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121141:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121141:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121141:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121141:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121141:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121141:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121141:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121141:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121141:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121141:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121141:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121141:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121141:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121141:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121141:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121141:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121141:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121141:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121141:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121141:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121141:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121141:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121141:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121141:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121141:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121141:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121141:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121141:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121141:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121141:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121141:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121141:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121141:WARNING:resource_bundle.cc(328)] locale_file_path.empty() for locale 
+[0210/121141:ERROR:main_delegate.cc(706)] Could not load locale pak for en-US
+[0210/121141:ERROR:gpu_child_thread.cc(328)] Exiting GPU process due to errors during initialization
+[0210/121203:WARNING:resource_bundle.cc(328)] locale_file_path.empty() for locale 
+[0210/121203:ERROR:main_delegate.cc(706)] Could not load locale pak for en-US
+[0210/121203:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121203:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121203:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121203:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121203:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121203:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121203:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121203:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121203:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121203:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121203:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121203:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121203:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121203:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121203:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121203:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121203:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121203:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121203:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121203:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121203:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121203:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121203:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121203:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121203:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121203:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121203:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121203:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121203:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121203:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121203:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121203:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121203:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121203:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121203:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121203:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121203:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121203:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121203:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121203:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121203:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121203:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121203:WARNING:resource_bundle.cc(328)] locale_file_path.empty() for locale 
+[0210/121203:ERROR:main_delegate.cc(706)] Could not load locale pak for en-US
+[0210/121203:ERROR:gpu_child_thread.cc(328)] Exiting GPU process due to errors during initialization
+[0210/121218:WARNING:resource_bundle.cc(328)] locale_file_path.empty() for locale 
+[0210/121218:ERROR:main_delegate.cc(706)] Could not load locale pak for en-US
+[0210/121218:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121218:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121218:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121218:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121218:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121218:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121218:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121218:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121218:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121218:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121218:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121218:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121218:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121218:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121218:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121218:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121218:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121218:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121218:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121218:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121218:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121218:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121218:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121218:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121218:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121218:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121218:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121218:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121218:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121218:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121218:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121218:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121218:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121218:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121218:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121218:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121218:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121218:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121218:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121218:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121218:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121218:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121218:WARNING:resource_bundle.cc(328)] locale_file_path.empty() for locale 
+[0210/121218:ERROR:main_delegate.cc(706)] Could not load locale pak for en-US
+[0210/121218:ERROR:gpu_child_thread.cc(328)] Exiting GPU process due to errors during initialization
+[0210/121240:WARNING:resource_bundle.cc(328)] locale_file_path.empty() for locale 
+[0210/121240:ERROR:main_delegate.cc(706)] Could not load locale pak for en-US
+[0210/121240:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121240:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121240:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121240:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121240:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121240:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121240:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121240:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121240:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121240:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121240:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121240:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121240:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121240:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121240:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121240:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121240:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121240:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121240:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121240:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121240:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121240:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121240:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121240:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121240:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121240:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121240:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121240:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121240:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121240:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121240:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121240:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121240:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121240:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121240:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121240:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121240:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121240:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121240:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121240:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121240:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121240:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121240:WARNING:resource_bundle.cc(328)] locale_file_path.empty() for locale 
+[0210/121240:ERROR:main_delegate.cc(706)] Could not load locale pak for en-US
+[0210/121240:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121240:WARNING:resource_bundle.cc(526)] locale resources are not loaded
+[0210/121240:ERROR:gpu_child_thread.cc(328)] Exiting GPU process due to errors during initialization
+[0210/121240:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[0210/121240:WARNING:resource_bundle.cc(328)] locale_file_path.empty() for locale 
+[0210/121240:ERROR:main_delegate.cc(706)] Could not load locale pak for en-US
